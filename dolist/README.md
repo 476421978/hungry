@@ -1,7 +1,7 @@
 # dolist
 主要是根据慕课网上的课程来进行编码的，由于课时较久有些代码已经不同了，更正了某些代码，能正常运行。
 > A Vue.js project
-
+![image](https://github.com/476421978/hungry/blob/master/static/img/hunger.gif)
 ## Build Setup
 
 ``` bash
